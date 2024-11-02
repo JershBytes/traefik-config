@@ -6,9 +6,10 @@
 
 <h1 align="center">Traefik Config</h1>
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/n1vOfdz5Nm8" title="Traefik 3 and FREE Wildcard Certificates with Docker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <div align="center">
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/n1vOfdz5Nm8/0.jpg)](https://www.youtube.com/watch?v=n1vOfdz5Nm8)
+
 
  After watching [Techno Tims](https://github.com/timothystewart6) video on traefik v3, I thought why not make a repo for easy deployment. So Others don't have to go through some of the hassle of copy and pasting.
 
